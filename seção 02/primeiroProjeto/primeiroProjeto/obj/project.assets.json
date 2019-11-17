@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PROBOOK 640 G1\\Desktop\\projetos\\primeiroProjeto\\primeiroProjeto\\primeiroProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\PROBOOK 640 G1\\Desktop\\ASPNETCoreMVDLojaVirtual\\seção 02\\primeiroProjeto\\primeiroProjeto\\primeiroProjeto.csproj",
       "projectName": "primeiroProjeto",
-      "projectPath": "C:\\Users\\PROBOOK 640 G1\\Desktop\\projetos\\primeiroProjeto\\primeiroProjeto\\primeiroProjeto.csproj",
+      "projectPath": "C:\\Users\\PROBOOK 640 G1\\Desktop\\ASPNETCoreMVDLojaVirtual\\seção 02\\primeiroProjeto\\primeiroProjeto\\primeiroProjeto.csproj",
       "packagesPath": "C:\\Users\\PROBOOK 640 G1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PROBOOK 640 G1\\Desktop\\projetos\\primeiroProjeto\\primeiroProjeto\\obj\\",
+      "outputPath": "C:\\Users\\PROBOOK 640 G1\\Desktop\\ASPNETCoreMVDLojaVirtual\\seção 02\\primeiroProjeto\\primeiroProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
