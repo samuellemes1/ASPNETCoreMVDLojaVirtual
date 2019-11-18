@@ -51,10 +51,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="Models\" />
     <Folder Include="Views\" />
     <Folder Include="wwwroot\NovaPasta1\" />
+    <Folder Include="wwwroot\NovaPasta2\" />
   </ItemGroup>
 
   <ItemGroup>
