@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\PROBOOK 640 G1\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\PROBOOK 640 G1\\Desktop\\ASPNETCoreMVDLojaVirtual\\seção 08\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
+      "projectName": "LojaVirtual",
+      "projectPath": "C:\\Users\\PROBOOK 640 G1\\Desktop\\ASPNETCoreMVDLojaVirtual\\seção 08\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
+      "packagesPath": "C:\\Users\\PROBOOK 640 G1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PROBOOK 640 G1\\Desktop\\ASPNETCoreMVDLojaVirtual\\seção 08\\LojaVirtual\\LojaVirtual\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\PROBOOK 640 G1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
